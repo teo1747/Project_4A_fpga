@@ -1,0 +1,4 @@
+Running: xsim.dir/Temp_Sensor_Display_behav/xsimk.exe -simmode gui -wdb Temp_Sensor_Display_behav.wdb -simrunnum 0 -socket 56855
+Design successfully loaded
+Design Loading Memory Usage: 8688 KB (Peak: 8688 KB)
+Design Loading CPU Usage: 78 ms
