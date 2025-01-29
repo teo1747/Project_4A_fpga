@@ -1,6 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../Project-4A.srcs/sources_1/new/Temperature_Sensor.vhd" \
-
-# Do not sort compile order
-nosort
